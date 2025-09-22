@@ -87,4 +87,4 @@ plt.show()
 <img width="882" height="678" alt="image" src="https://github.com/user-attachments/assets/a4b1c79a-b2a6-479d-90ef-4f9d6ef7bed3" />
 
 ### Result:
-Thus, cluster and Visitor Segmentation for Navigation patterns have been implemented.
+Thus, cluster and Visitor Segmentation for Navigation patterns have been implemented successfully.
